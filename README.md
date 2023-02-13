@@ -30,6 +30,10 @@ Me considero una persona empática, me gusta trabajar en equipo y siempre soy pe
 <a href="https://www.linkedin.com/in/constantinoabba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedIn" height="40" width="50" /></a>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=consbenjamin&hide_border=true&layout=compact" align="left" />  
+
+<br/>  
+
  
   
  
