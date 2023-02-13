@@ -1,6 +1,6 @@
 <!-- Heading -->
 <h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hola! Soy Constantino</h3>
-Full-Stack Web Developer from Argentina to the 🌎
+<div margin-left='10px'>Full-Stack Web Developer from Argentina to the 🌎</div>
 
 
  <!-- About section -->
