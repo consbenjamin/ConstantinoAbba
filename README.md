@@ -1,67 +1,79 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Gift Egwuenu</h3>
 
-### <div align="center">I'm Constantino, a full-time full-stack developer 👨‍💻 </div>  
-  
+<!-- Profile Views -->
 
-<br/>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
+<p align="center">
+  <a href="https://www.giftegwuenu.dev">Website</a> •
+  <a href="https://twitter.com/lauragift_">Twitter</a>
+</p>
+
+ <!-- About section -->
+
+---
+✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
+
+I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a [GitHub Star](https://stars.github.com/profiles/lauragift21/), Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
+- 😄 My Pronouns: She/Her   
+
+- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
+
+- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
+
+- ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
+
+<!-- About section: END -->
 
 
+<!-- Conecct section -->
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<h2>Connect with me </h3>
+    <p>
+        <a href="https://linkedin.com/in/egwuenugift"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
+       <a href="https://twitter.com/@lauragift_
+/"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
+<a href="https://www.youtube.com/c/EgwuenuGift"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
+   </p>
+
+ <!-- Conecct section: END -->
+ 
+  <!-- GitHub section -->
+
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ 
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauragift21&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
-</td><td valign="top" width="33%">
+**Expand to view**
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
+</details>
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lauragift21&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
 
+<!-- GitHub section: END -->
 
+<!-- Profile Views -->
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
-</td><td valign="top" width="33%">
-
-
-
-
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/consbenjamin" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/constantinoabba" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
+<!-- THE END -->
 
 
   
