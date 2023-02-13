@@ -1,6 +1,6 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hola! Soy Constantino</h3>
-<img src="file:///C:/Users/cons_/Desktop/Dise%C3%B1o%20sin%20t%C3%ADtulo.png" alt='Banner' >
+<img src="https://www.canva.com/design/DAFafkXUWZs/PlpDt2JtaLVoEsQ36tv8Kg/view" alt='Banner' >
 
 
  <!-- About section -->
