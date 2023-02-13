@@ -1,16 +1,13 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hola! Soy Constantino</h3>
 
-<!-- Profile Views -->
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/constantinoabba/">LinkedIn</a>
-</p>
 
  <!-- About section -->
 
 ---
 ✨ Soy Desarrollar Web Full Stack
+
+Me considero una persona empática, me gusta trabajar en equipo y siempre soy perfeccionista en lo que hago, siempre intento dar lo mejor de mi, comprometido al trabajo. Y buscando obtener nuevos conocimientos para mejorar en mi desarrollo como programador.
 
  <!-- Tecnologias-->
 <h3 align="left">Tecnologías:</h3>
