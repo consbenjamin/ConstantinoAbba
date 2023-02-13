@@ -28,7 +28,7 @@
 
 <h2>Conectar</h3>
     <p>
-        <a href="https://www.linkedin.com/in/constantinoabba/"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/constantinoabba" alt="LinkedIn Badge"></a> 
+        <a href="https://www.linkedin.com/in/constantinoabba/"><img src="https://img.shields.io/badge/-%20%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/constantinoabba" alt="LinkedIn Badge"></a> 
    </p>
 
  <!-- Conecct section: END -->
