@@ -15,7 +15,7 @@ Me considero una persona empática, me gusta trabajar en equipo y siempre soy pe
 - 📫 Como contactarme: cons_benjamin9@outlook.com
 
  <!-- Tecnologias-->
-<h3 align="left">Tecnologías:</h3>
+<h3 align="left">⭐Tecnologías:</h3>
 <p>
   FrontEnd: React | Redux | Tailwind | Bootstrap | CSS  <br>
   BackEnd: Node | Express | JavaScript <br>
