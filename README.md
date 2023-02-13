@@ -1,12 +1,11 @@
 <!-- Heading -->
-<h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hola! Soy Constantino</h3>
-<div margin-left='10px'>Full-Stack Web Developer from Argentina to the 🌎</div>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hola! Soy Constantino</h3>
 
 
  <!-- About section -->
 
 ---
-✨ Soy Desarrollar Web Full Stack
+Full-Stack Web Developer from Argentina to the 🌎
 
 Me considero una persona empática, me gusta trabajar en equipo y siempre soy perfeccionista en lo que hago, siempre intento dar lo mejor de mi, comprometido al trabajo. Y buscando obtener nuevos conocimientos para mejorar en mi desarrollo como programador.
 
