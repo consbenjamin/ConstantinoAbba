@@ -25,7 +25,7 @@ Me considero una persona empática, me gusta trabajar en equipo y siempre soy pe
 
 
 <!-- About section: END -->
-<h3 align="left">Conectar:</h3>
+<h3 align="left">Conectemos:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/constantinoabba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedIn" height="40" width="50" /></a>
 </p>
