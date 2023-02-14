@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hola! Soy Constantino</h3>
+<h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hola! Soy Constantino</h3>
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479sk6juazmu343d7zszsfrb4tplpyjl837qaojy8l&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 
 
