@@ -10,7 +10,7 @@ Full-Stack Web Developer from Argentina to the 🌎
 
 Me considero una persona empática, me gusta trabajar en equipo y siempre soy perfeccionista en lo que hago, siempre intento dar lo mejor de mi, comprometido al trabajo. Y buscando obtener nuevos conocimientos para mejorar en mi desarrollo como programador.
 
-Actualmente me encuentro realizando proyectos para ampliar mi experiencia y aprender nuevas tecnologias
+Actualmente me encuentro realizando proyectos para ampliar mi experiencia y aprender nuevas tecnologias.
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
